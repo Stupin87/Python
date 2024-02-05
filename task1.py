@@ -11,7 +11,7 @@ def division(x, y):
 num1 = 10
 num2 = 2
 
-# Вызовем функцию divide
+# Вызовем функцию division
 result = division(num1, num2)
 
 # Проверим результат и выведем его на экран
